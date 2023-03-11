@@ -1,0 +1,20 @@
+SMILES,database,MolLogP,Acceptor_Count,Donor_Count,NumRotatableBonds,RingCount,MolWt,Experimental IC50 (log10),pdCSM-PPI
+CS(=O)(=O)c1ccc(Cl)cc1C(=O)Nc2cccc(NC(=O)c3cc(Cl)ccc3S(=O)(=O)C)c2,timbal,4.305,6,2,6,3,541.434,5.99139982823808,6.53
+O=C(Nc1cccc(NC(=O)Nc2ccon2)c1)Nc3ccon3,timbal,2.9506,4,4,4,3,328.288,5.39794000867204,5.53
+[O-][N+](=O)c1ccc(NC(=O)Nc2ncccc2OCc3ccccc3)cc1,timbal,4.2128,3,2,6,3,364.361,7.85387196432176,6.33
+Cc1ccc(NC(=O)Nc2cccc(NC(=O)Nc3ccc(C)cc3C)c2)c(C)c1,timbal,6.20828,2,4,4,3,402.498,5.07058107428571,5.79
+Clc1cc(Cl)cc(c1)C(=O)Nc2cccc(NC(=O)CC(c3ccccc3)c4ccccc4)c2,timbal,7.4064,2,2,7,4,489.402,6.06048074738138,5.96
+[O-][N+](=O)c1cccc(NC(=O)Nc2ncccc2OCc3ccccc3)c1,timbal,4.2128,3,2,6,3,364.361,7.22184874961636,6.44
+Clc1cc(Cl)cc(NC(=O)NCc2cccc(CNC(=O)Nc3cc(Cl)cc(Cl)c3)c2)c1,timbal,6.9436,2,4,6,3,512.224,5.40340290437354,5.44
+Cc1ccc(NC(=S)Nc2ccc3COC(=O)c3c2)cc1Cl,timbal,4.12772,2,2,2,3,332.812,6.22914798835786,6.23
+Cc1ccc(NC(=S)Nc2ccc(cc2)S(=O)(=O)Nc3nccs3)cc1Cl,timbal,4.71462,3,3,5,3,438.987,6.79588001734408,6.34
+CC(C)[C@H](NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)[C@@H](NC(=O)C)C(C)C)C(=O)NCC(=O)N2CCC[C@@H]2C(=O)NC3CCCC3C(=O)N[C@@H](C)C(=O)N,timbal,-1.8794,9,10,17,3,730.868,3.16749108729376,3.12
+Brc1ccc(NC(=O)Nc2cccc(NC(=O)Nc3ccc(Br)cc3Br)c2)c(Br)c1,timbal,8.0246,2,4,4,3,661.974,5.20760831050175,6.05
+Brc1ccc(NC(=O)NC2CCCC(C2)NC(=O)Nc3ccc(Br)cc3Br)c(Br)c1,timbal,6.991,2,4,4,3,668.022,5.29328221766324,5.4
+[O-][N+](=O)c1ccccc1C(=O)NC(=O)NC2c3ccccc3c4ccccc24,timbal,3.8042,2,2,3,4,373.368,6.20760831050175,6.68
+Clc1ccccc1NC(=O)Nc2ncccc2OCc3ccccc3,timbal,4.958,3,2,5,3,353.809,6.22767829327708,6.41
+CCOC(=O)c1ccccc1NC(=O)Nc2ncccc2OCc3ccccc3,timbal,4.4813,5,2,7,3,391.427,6.05551732784983,7.04
+Cc1onc(NS(=O)(=O)c2ccc(NC(=S)Nc3cccc(Br)c3)cc2)c1,timbal,4.35522,3,3,5,3,467.37,6.34678748622466,6.48
+CC(C)[C@H](NC(=O)C)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@@H](C)C(=O)NCC(=O)N2CCC[C@H]2C(=O)NC3(CCCC3)C(=O)N[C@@H](C)C(=O)N,timbal,-2.3714,9,10,16,3,702.814,3.16749108729376,3.33
+Clc1cc(Cl)cc(c1)C(=O)Nc2cccc(NC(=O)Nc3ccc(Br)cc3Br)c2,timbal,7.4147,2,3,4,3,558.057,6.20760831050175,5.91
+FC(F)(F)c1ccc(NC(=O)Nc2cccc(NC(=O)c3cc(Cl)cc(Cl)c3)c2)cc1,timbal,6.9085,2,3,4,3,468.262,6.0268721464003,6.09
